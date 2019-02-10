@@ -15,7 +15,7 @@ export class TodoItems extends Component {
         style={{
           background: "#f4f4f4",
           padding: "10px",
-          border: "2px black dotted",
+          border: "3px grey solid",
           borderRadius: "7px",
           margin: "5px"
         }}
